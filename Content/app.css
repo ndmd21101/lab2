@@ -1,0 +1,54 @@
+.container-fluid{
+background-color:rgb(120, 155, 250) ;
+font-weight: bolder;
+font-style: italic;
+}
+#home{
+background-image: url(./778b29f76401eda0fdcea8a520a747da.jpg);
+font-weight: bolder;
+font-style: italic;
+}
+.projects{
+    background-image: url(./20495729.png);
+    color: greenyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+#services{
+    background-image: url(./20495729.png);
+}
+.container{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+}
+#loginform{
+    display: grid;
+    justify-content:space-evenly;
+    width: 500px;
+    height: 300px;
+    background: rgb(202, 202, 202);
+    border-radius: 25px;
+}
+#registerform{
+    display: grid;
+    justify-content:space-evenly;
+    width: 550px;
+    height: 450px;
+    background: rgb(202, 202, 202);
+    border-radius: 25px;
+}
+#password
+{
+width:400px;
+}
+#username{
+    width:400px;
+}
+#submitButton{
+    text-align: center;
+    height: 50px;
+    width:150px;
+}
+.right{
+    text-align: right;
+}
